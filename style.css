@@ -1,0 +1,52 @@
+body{
+    background-size: cover;
+}
+
+#h_3{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#span_1{
+    font-size: 15px;
+    color: yellow;
+}
+
+.div_speed{
+float: left;
+
+}
+
+.div_vol{
+    float: right;
+    
+    }
+    #img_1,#img_2{
+        width: 200px;
+     border-radius: 100px;
+    }
+
+    #h_3speed,#h_3vol{
+        font-size: 20px;
+        margin: 15px;
+        color: aquamarine;
+    }
+
+    canvas{
+        border-radius: 50px;
+        border: 5px solid crimson ;
+    }
+
+    .play_button{
+        color: aqua;
+        background-color: red;
+        width: 130px;
+        height: 50px;
+        font-size: larger;
+        font-weight:bold;
+        border-radius: 10px;
+        border: 2px solid yellow ; 
+    }
+    
